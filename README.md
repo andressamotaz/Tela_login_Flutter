@@ -1,7 +1,6 @@
 # tela_login
 
-A new Flutter project.
-
+Atividade de flutter da tela de login. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
